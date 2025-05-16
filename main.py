@@ -604,7 +604,7 @@ async def ytplaylist_to_txt(client: Client, message: Message):
         file_name = save_to_file(videos, title)
         await message.reply_document(
             document=file_name, 
-            caption=f"`{title}`\n\n📥 𝗘𝘅𝘁𝗿𝗮𝗰𝘁𝗲𝗱 𝗕𝘆 ➤ "🐺𝗕𝗮𝗱𝗳𝗲𝗹𝗹𝗮 𝗖𝗵𝗮𝗵𝗮𝗹🐺"
+            caption=f"`{title}`\n\n📥 𝗘𝘅𝘁𝗿𝗮𝗰𝘁𝗲𝗱 𝗕𝘆 ➤ 🐺𝗕𝗮𝗱𝗳𝗲𝗹𝗹𝗮 𝗖𝗵𝗮𝗵𝗮𝗹🐺"
         )
         os.remove(file_name)
     else:
