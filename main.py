@@ -671,10 +671,23 @@ async def help_command(client: Client, msg: Message):
 
 
 # Upload command handler
-@bot.on_message(filters.command(["Txt"]))
+@bot.on_message(filters.command(["chahal"]))
 async def upload(bot: Client, m: Message):
     if not is_authorized(m.chat.id):
-        await m.reply_text("**🚫You are not authorized to use this bot.**")
+        await m.reply_text("**🚫You are not authorized to use this bot.
+
+📍  𝗣𝗿𝗶𝗰𝗲     𝗗𝘂𝗿𝗮𝘁𝗶𝗼𝗻
+
+➡️ ₹𝟭𝟬𝟬 /   𝟳 𝗱𝗮𝘆𝘀
+➡️ ₹𝟭𝟱𝟬 /  𝟭𝟱 𝗱𝗮𝘆𝘀
+➡️ ₹𝟮𝟲𝟵 /   𝟯𝟬 𝗱𝗮𝘆𝘀
+
+🍁𝗠𝗲𝘀𝘀𝗮𝗴𝗲 𝗛𝗲𝗿𝗲 𝗧𝗼 𝗚𝗲𝘁 𝗔𝗰𝗰𝗲𝘀𝘀 @chahal_badfella
+
+𝗗𝗼𝗻'𝘁 𝗔𝘀𝗸 𝗙𝗼𝗿 𝗙𝗿𝗲𝗲 
+
+✨𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @achiever_team
+**")
         return
 
     editable = await m.reply_text("**𝗧𝗢𝗧𝗔𝗟 𝗟𝗜𝗡𝗞𝗦 𝗙𝗢𝗨𝗡𝗗 𝗜𝗡 𝗧𝗫𝗧 𝗙𝗜𝗟𝗘 𝗔𝗥𝗘 ⚔️**")
