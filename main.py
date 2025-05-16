@@ -675,7 +675,6 @@ async def help_command(client: Client, msg: Message):
 async def upload(bot: Client, m: Message):
     if not is_authorized(m.chat.id):
         await m.reply_text("**🚫You are not authorized to use this bot.
-
 📍  𝗣𝗿𝗶𝗰𝗲     𝗗𝘂𝗿𝗮𝘁𝗶𝗼𝗻
 
 ➡️ ₹𝟭𝟬𝟬 /   𝟳 𝗱𝗮𝘆𝘀
