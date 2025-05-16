@@ -1,6 +1,6 @@
 # TXT UPLOADER
 
-# 𝗕𝗢𝗧 𝗠𝗔𝗗𝗘 𝗕𝗬 WOLVES 🐺
+# 𝗕𝗢𝗧 𝗠𝗔𝗗𝗘 𝗕𝗬 ʙᴀᴅꜰᴇʟʟᴀ ᴄʜᴀʜᴀʟ 🐺
 
 
 ## DEPLOY TO HEROKU
@@ -11,20 +11,20 @@
 
 
 <h1 align="center">
-  🐺 WOLVES ᴛxᴛ ᴜᴘʟᴏᴀᴅᴇʀ 🐺
+  🐺 ʙᴀᴅꜰᴇʟʟᴀ ᴄʜᴀʜᴀʟᴛxᴛ ᴜᴘʟᴏᴀᴅᴇʀ 🐺
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Txt+Uploader+Bot+!)
 
 ## Credit
 
-🥳 Credit Goes To [WOLVES 🐺](https://t.me/XYZOFFICALBOT)
+🥳 Credit Goes To [ʙᴀᴅꜰᴇʟʟᴀ ᴄʜᴀʜᴀʟ 🐺](https://t.me/chahal_badfella)
 
   
 ## 🔥 Commands
 
 - **`/start`**: ⚡ check bot is alive.
-- **`/Txt`**:  📁 upload txt file.
+- **`/chahal`**:  📁 upload txt file.
 - **`/apps`**: 🔗 support Link type.
 - **`/stop`**: 🛑 stop ongoing process.
 - **`/restart`**: 🔮 restart the bot.
